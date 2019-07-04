@@ -1,2 +1,4 @@
 this is a test file
 -this is my edit from the main folder
+-this is my edit
+-merged
